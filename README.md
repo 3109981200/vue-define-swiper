@@ -25,7 +25,7 @@ showChangeBtn   显示切换按钮
 ```$xslt
 http://www.codertian.top/demo/vue-define-swiper/index.html
 ```
-##[前往预览](http://www.codertian.top/demo/vue-define-swiper/index.html)
+## [前往预览](http://www.codertian.top/demo/vue-define-swiper/index.html)
 
 ## Project setup
 ```
